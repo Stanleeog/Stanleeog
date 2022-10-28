@@ -1,7 +1,7 @@
+- 😊 Pronouns: He/him
 - 👋 Hi, I’m Stanley Oguh
 - 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 💼 Job interests: Software Engineer, Front Engineer, customer care rep, I.T support
 - 🌱 I’m currently learning Javascript,Reactjs 
 - 📫 You cancontact me by emailing stanleyoguh243@gmail.com.
-
-
